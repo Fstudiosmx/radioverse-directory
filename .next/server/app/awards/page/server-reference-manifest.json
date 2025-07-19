@@ -1,0 +1,16 @@
+{
+  "node": {
+    "4008fe9dd1b75db7b9845b04e239c779500a7455c5": {
+      "workers": {
+        "app/awards/page": {
+          "moduleId": "[project]/.next-internal/server/app/awards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/translate-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/awards/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
